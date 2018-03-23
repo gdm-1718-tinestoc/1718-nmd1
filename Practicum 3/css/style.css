@@ -1,0 +1,18 @@
+h1 {
+    font-family: Helvetica;
+}
+h2 {
+    font-family: Helvetica;
+}
+p{
+    font-family: Calibri;
+}
+li {
+    font-family: Calibri;
+}
+.cv {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
